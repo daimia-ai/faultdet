@@ -1,2 +1,2 @@
-# daimiasim-faultdet
+# faultdet
 Fault Detection algorithms used in DAIMIAsim
